@@ -11,6 +11,6 @@ The assignment is about using Node.js, Express, and MongoDB to develop a minor s
 ### Install
 - ```git clone https://github.com/Theodore-Ho/E.-App.-Dev.-Assignment---4-server.git```
 - In MongoDB, create a database named ```assignment4```, with a collection named ```products```, then import the data ```./data/products.json```.
-- In bash command, navigate to the root path of the project, execute ```node index.js```.
+- In bash command, navigate to the root path of the project, execute ```npm install```, then execute ```node index.js```.
 - The server will be running in localhost:8080, open browser, type in ```localhost:8080```, then you can access the app.
 - The backend server is already a monolithic application that uses the frontend compiled files to serve static resources, in the folder ```./public```. Please refer to the frontend repository ([Theodore-Ho/E.-App.-Dev.-Assignment---4-client](https://github.com/Theodore-Ho/E.-App.-Dev.-Assignment---4-client)) if you wish to run the frontend project for a front-backend separation.
